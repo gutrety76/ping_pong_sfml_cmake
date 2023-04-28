@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/denis/cpp/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/2d_game.dir/main.cpp.o -c /home/denis/cpp/src/main.cpp",
+  "file": "/home/denis/cpp/src/main.cpp"
+},
+{
+  "directory": "/home/denis/cpp/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/2d_game.dir/game.cpp.o -c /home/denis/cpp/src/game.cpp",
+  "file": "/home/denis/cpp/src/game.cpp"
+}
+]
